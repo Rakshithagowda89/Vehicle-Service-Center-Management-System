@@ -1,0 +1,6 @@
+vehicle_id,customer_id,vehicle_number,vehicle_model,vehicle_type
+1,1,TN10AB1234,"Hyundai i20",Car
+2,2,KA05XY5678,"Honda City",Car
+3,3,TS08PQ4321,"Royal Enfield",Bike
+4,4,TN22KL9090,"Maruti Swift",Car
+5,5,MH12AA1111,"TVS Apache",Bike

@@ -1,0 +1,9 @@
+bill_id,service_id,total_amount,payment_status
+1,1,8000.00,Paid
+2,2,3000.00,Paid
+3,3,2500.00,Pending
+4,4,5000.00,Paid
+5,5,2200.00,Paid
+6,6,1800.00,Pending
+7,7,7000.00,Paid
+8,8,2000.00,Pending
